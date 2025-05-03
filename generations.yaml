@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (Type 176)"
+    start_year: 1993
+    end_year: 1999
+    description: "The original Fiat Punto was a subcompact car designed by Giorgetto Giugiaro, featuring distinctive styling with high-mounted vertical taillights. Available in three and five-door hatchback variants, it offered impressive interior space for its compact exterior dimensions. Engine options ranged from 1.1L to 1.6L petrol and a 1.7L diesel, with the GT variant featuring a turbocharged 1.4L producing 136 HP. The interior was modern for its time with good ergonomics and quality materials by class standards. This generation was highly successful, winning European Car of the Year in 1995 and becoming one of Europe's best-selling cars. The Punto established itself as a core model in Fiat's lineup, offering practicality, style, and value in the competitive supermini segment."
+
+  - name: "Second Generation (Type 188)"
+    start_year: 1999
+    end_year: 2010
+    description: "The second-generation Punto featured evolutionary styling by Giorgetto Giugiaro, maintaining the vertical taillights but with a more rounded overall design. Available in three and five-door hatchback forms, plus a two-door convertible (Punto Cabrio), it grew slightly in size for improved interior space. Engine options included various FIRE petrol units from 1.2L to 1.8L and improved JTD diesel engines. The performance-oriented HGT variant featured a 1.8L 16v engine with 130 HP. The interior offered improved quality, comfort, and equipment levels, including features uncommon in its class like a Connecting multimedia system. A significant facelift in 2003 (resulting in the Grande Punto in some markets) updated the styling and technology. This generation maintained the Punto's position as one of Europe's most popular superminis throughout its extended production run."
+
+  - name: "Third Generation (Tipo 199/310/199FL)"
+    start_year: 2005
+    end_year: 2018
+    description: "The third-generation Punto was initially launched as the Grande Punto, designed by Giugiaro in collaboration with Fiat Centro Stile. Built on the GM Fiat Small platform shared with the Opel Corsa D, it represented a significant size increase, approaching the next segment in dimensions. Engine options included various petrol units from 1.2L to 1.4L and advanced MultiJet diesel engines. The Abarth Grande Punto offered enhanced performance with up to 180 HP in Esseesse form. A substantial facelift in 2009 resulted in the Punto Evo, featuring completely redesigned front and rear styling, updated engines including MultiAir technology, and a significantly improved interior. A further refresh in 2012 reverted to simpler styling more reminiscent of the original Grande Punto, marketed simply as 'Punto' in most markets. This generation demonstrated remarkable longevity, remaining in production with minor updates until 2018, an unusually long lifecycle for a supermini. It maintained solid sales throughout much of its run, particularly in Southern European markets, though it gradually lost competitiveness against more modern rivals in later years."
