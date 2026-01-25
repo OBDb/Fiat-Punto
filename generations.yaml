@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_Punto"
+
 generations:
   - name: "First Generation (Type 176)"
     start_year: 1993
@@ -6,10 +9,25 @@ generations:
 
   - name: "Second Generation (Type 188)"
     start_year: 1999
-    end_year: 2010
-    description: "The second-generation Punto featured evolutionary styling by Giorgetto Giugiaro, maintaining the vertical taillights but with a more rounded overall design. Available in three and five-door hatchback forms, plus a two-door convertible (Punto Cabrio), it grew slightly in size for improved interior space. Engine options included various FIRE petrol units from 1.2L to 1.8L and improved JTD diesel engines. The performance-oriented HGT variant featured a 1.8L 16v engine with 130 HP. The interior offered improved quality, comfort, and equipment levels, including features uncommon in its class like a Connecting multimedia system. A significant facelift in 2003 (resulting in the Grande Punto in some markets) updated the styling and technology. This generation maintained the Punto's position as one of Europe's most popular superminis throughout its extended production run."
+    end_year: 2003
+    description: "The second-generation Punto codenamed Project 188 was launched in September 1999 at the Frankfurt Motor Show. The styling was all-new while retaining the original Punto's distinctive shape and design, with a completely overhauled chassis and interior featuring a new torsion beam rear suspension. Available in three and five-door hatchback forms, plus a two-door convertible (Punto Cabrio), it grew slightly in size for improved interior space. Engine options included various FIRE petrol units from 1.2L to 1.8L and improved JTD diesel engines. The performance-oriented HGT variant featured a 1.8L 16v engine with 130 HP. The interior offered improved quality, comfort, and equipment levels."
 
-  - name: "Third Generation (Tipo 199/310/199FL)"
+  - name: "Second Generation (Type 188, 2003 Facelift)"
+    start_year: 2003
+    end_year: 2010
+    description: "A significant facelift in 2003 brought further revisions to the platform, including extensive changes to the exterior styling and engines, partly due to pedestrian safety regulations. The round Fiat badge was introduced on the tailgate. Engine changes included a new 1.4L 16v engine, alongside the staple 1.2 and 1.2L 16v variants, and the introduction of two HGT versions with 1.9L MultiJet diesel and 1.8L 16v petrol engines. A new 1.3L common rail diesel MultiJet engine was also introduced. Despite the launch of the slightly larger Grande Punto at the end of 2005, the second generation Punto remained in production as 'Punto Classic' and was sold in many markets alongside the newer generation, finally ending production in Italy in November 2010."
+
+  - name: "Third Generation (Type 199)"
     start_year: 2005
+    end_year: 2009
+    description: "The Grande Punto, codenamed Project 199, was unveiled at the 2005 Frankfurt Motor Show and went on sale later that year. Designed by Giorgetto Giugiaro in collaboration with Fiat Centro Stile, it was based on the GM Fiat Small platform developed in joint venture with Opel. The car represented a significant size increase, approaching the next segment in dimensions with new components including chassis and body shell. Engine options included petrol units from 1.2L Fire to 1.4L with various configurations, and advanced MultiJet diesel engines. The Abarth Grande Punto, introduced in 2007, offered enhanced performance with turbocharged engines producing up to 150 HP, with further power upgrades available through the Essesse kit reaching 180 HP."
+
+  - name: "Third Generation (Type 199, 2009 Facelift - Punto Evo)"
+    start_year: 2009
+    end_year: 2012
+    description: "The Punto Evo, a substantial facelift version of the Grande Punto, was presented in September 2009 at the Frankfurt Motor Show. It received a completely new front end, revised rear lights, and a new interior. The car featured two new engines: a 1.3L second generation Multijet diesel and a 1.4L petrol engine with MultiAir technology. A new navigation system was integrated into the Blue&Me system. The Abarth Punto Evo, shown at the 2010 Geneva Motor Show, featured a 1.4L MultiAir Turbo engine producing 165 HP, with an optional Esseesse version offering 180 HP and improved performance."
+
+  - name: "Third Generation (Type 199, 2012 Facelift)"
+    start_year: 2012
     end_year: 2018
-    description: "The third-generation Punto was initially launched as the Grande Punto, designed by Giugiaro in collaboration with Fiat Centro Stile. Built on the GM Fiat Small platform shared with the Opel Corsa D, it represented a significant size increase, approaching the next segment in dimensions. Engine options included various petrol units from 1.2L to 1.4L and advanced MultiJet diesel engines. The Abarth Grande Punto offered enhanced performance with up to 180 HP in Esseesse form. A substantial facelift in 2009 resulted in the Punto Evo, featuring completely redesigned front and rear styling, updated engines including MultiAir technology, and a significantly improved interior. A further refresh in 2012 reverted to simpler styling more reminiscent of the original Grande Punto, marketed simply as 'Punto' in most markets. This generation demonstrated remarkable longevity, remaining in production with minor updates until 2018, an unusually long lifecycle for a supermini. It maintained solid sales throughout much of its run, particularly in Southern European markets, though it gradually lost competitiveness against more modern rivals in later years."
+    description: "Fiat introduced the 2012 Punto in September 2011 at the Frankfurt Motor Show as a facelifted version of the Punto Evo that reintroduced the Punto nomenclature (without 'Grande' or 'Evo'). The facelift consisted of lighter tweaks than the Grande Punto to Punto Evo transition, keeping the revised rear lights and interior of the 2009 Punto Evo but with a return to simpler styling more reminiscent of the original Grande Punto. In June 2016, a new Techno Pack was introduced with a 5-inch touchscreen infotainment system and cruise control. Production of the three-door version ended in 2015, leaving only the five-door version available in Europe. Production of the Punto ended on 7 August 2018, with no direct successor announced, concluding 25 years of production."
